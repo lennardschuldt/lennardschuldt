@@ -1,16 +1,25 @@
-## Hi there 👋
+# Lennard Schuldt
 
-<!--
-**lennardschuldt/lennardschuldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Datenfokus: angehender Fachinformatiker DPA/AE.**  
+Ich baue kleine, saubere Python-Projekte für Datenqualität, Open-Data-ETL und Berichte mit SQLite.
 
-Here are some ideas to get you started:
+## Aktuell
+- `csv-cleaner`: CLI-Tool zum Prüfen/Reinigen von CSVs (Pflichtfelder, Typen, Duplikate, Wertebereiche) → Report als Markdown.  
+  Repo: https://github.com/lennardschuldt/csv-cleaner
+- `opendata-etl`: CSV → säubern → SQLite → Beispielqueries → Markdown-Report.  
+  Repo: https://github.com/lennardschuldt/opendata-etl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (Beginner)
+| Bereich | Stand |
+|---|---|
+| Python 3.12 | Grundlagen, CLI, Dateien |
+| Pandas | Basis: read_csv, select, clean |
+| SQL (SQLite) | SELECT, GROUP BY, JOIN |
+| Git & GitHub | commit, branch, push via SSH |
+| VS Code | venv, Debug, Extensions minimal |
+
+## Kontakt & Links
+- GitHub: https://github.com/lennardschuldt
+- E-Mail: privat auf Anfrage
+
+*Lizenz der Repos: MIT. Fokus: kleine, lehrreiche, nachvollziehbare Projekte.*
